@@ -1,3 +1,8 @@
+"""
+Daniil Yarrovi
+
+Solution to r/dailyprogrammer #378
+"""
 def addThreholds(taxRate):
     """
     taxRate is a List of Lists.
