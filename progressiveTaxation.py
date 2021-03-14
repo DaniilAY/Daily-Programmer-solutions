@@ -1,7 +1,7 @@
 """
 Daniil Yarrovi
 
-Solution to r/dailyprogrammer #378
+Solution to r/dailyprogrammer #379
 """
 def addThreholds(taxRate):
     """
